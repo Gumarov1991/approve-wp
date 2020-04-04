@@ -1,0 +1,22 @@
+/*
+Theme Name: realty
+Template: understrap
+*/
+
+#page h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#page .badge {
+    white-space: normal;
+    font-size: 1.25rem;
+    width: 100%;
+}
+
+#create-ad .custom-file-label {
+    top: unset;
+    bottom: -0.5rem;
+    right: 1rem;
+    left: 1rem;
+}
